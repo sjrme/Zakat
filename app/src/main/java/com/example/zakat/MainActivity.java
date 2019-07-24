@@ -8,7 +8,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
-
+// The contributors to this file are Stephen, Sultan and Jabrail
 public class MainActivity extends AppCompatActivity {
 
     @Override
