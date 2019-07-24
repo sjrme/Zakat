@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
+    // This is a method that is overriden
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
