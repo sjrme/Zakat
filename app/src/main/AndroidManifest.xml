@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".CalculateActivity"
+            android:label="@string/title_activity_calculate"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".FAQActivity"
+            android:label="@string/title_activity_faq"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SettingsActitity"
+            android:label="@string/title_activity_settings_actitity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
